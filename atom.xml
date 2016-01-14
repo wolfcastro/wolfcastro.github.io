@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://wolfcastro.github.io/"/>
-  <updated>2016-01-14T12:42:43.000Z</updated>
+  <updated>2016-01-14T12:54:13.000Z</updated>
   <id>http://wolfcastro.github.io/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[hexo博客搭建及配置]]></title>
+    <link href="http://wolfcastro.github.io/2016/01/14/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E9%85%8D%E7%BD%AE/"/>
+    <id>http://wolfcastro.github.io/2016/01/14/hexo博客搭建及配置/</id>
+    <published>2016-01-14T12:48:14.000Z</published>
+    <updated>2016-01-14T12:54:13.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="hexo__uFF0B_github_pages__u9759_u6001_u535A_u5BA2_u642D_u5EFA"><a href="#hexo__uFF0B_github_pages__u9759_u6001_u535A_u5BA2_u642D_u5EFA" class="headerlink" title="hexo ＋ github pages 静态博客搭建"></a>hexo ＋ github pages 静态博客搭建</h1><h2 id="u5B89_u88C5node-js"><a href="#u5B89_u88C5node-js" class="headerlink" title="安装node.js"></a>安装node.js</h2><ul>
+<li>ubuntu: </li>
+<li>mac: 安装homebrew, <code>brew install node</code></li>
+</ul>
+<h1 id="hexo_u914D_u7F6E"><a href="#hexo_u914D_u7F6E" class="headerlink" title="hexo配置"></a>hexo配置</h1><h1 id="u5E38_u89C1_u95EE_u9898_u53CA_u89E3_u51B3_u65B9_u6CD5"><a href="#u5E38_u89C1_u95EE_u9898_u53CA_u89E3_u51B3_u65B9_u6CD5" class="headerlink" title="常见问题及解决方法"></a>常见问题及解决方法</h1>]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="hexo__uFF0B_github_pages__u9759_u6001_u535A_u5BA2_u642D_u5EFA"><a href="#hexo__uFF0B_github_pages__u9759_u6001_u535A_u5BA2_u642D_u5E]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://wolfcastro.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
